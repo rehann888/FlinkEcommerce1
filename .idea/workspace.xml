@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b99c32a-c1dc-40f9-9b69-eec3436f170c" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Deserializer/JSONValueDeserializationSchema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dto/SalesPerCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dto/SalesPerDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dto/SalesPerMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dto/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FlinkCommerce/DataStreamJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/JsonUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FlinkCommerce/DataStreamJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlinkCommerce/DataStreamJob.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +33,15 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="a487f737-a2cf-49ea-9968-693b7ac31923" />
-        <option name="url" value="https://github.com/rehann888/Streaming_Data_Pipeline.git" />
+        <option name="url" value="https://github.com/rehann888/Streaming_Data-_Pipelines.git" />
       </UrlAndAccount>
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -93,6 +84,15 @@
       <option name="presentableId" value="Default" />
       <updated>1706857848703</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1706970748697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706970748697</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
