@@ -59,7 +59,7 @@ This repository contains the source code and configuration files for a real-time
   Utilizes Elasticsearch indices to build interactive and insightful visual representations.
   Provides a user-friendly interface for exploring and analyzing the processed data.
   Getting Started
-  To run the real-time sales data processing system locally, follow the steps outlined in this README.
+  
 
 ![](/home/reyhan/Pictures1/viz.png)
 
