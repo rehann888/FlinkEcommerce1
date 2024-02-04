@@ -35,7 +35,7 @@ This repository contains the source code and configuration files for a real-time
   Sets up a Flink streaming job to consume data from the Kafka topic 'financial_transactions'.
   Uses Flink Kafka Source for data ingestion.
 
-![](Pictures1/flink1.pn)
+![](Pictures1/flink1.png)
 
 ![](Pictures1/flink.png)
 
