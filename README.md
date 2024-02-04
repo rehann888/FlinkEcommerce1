@@ -29,6 +29,7 @@ This repository contains the source code and configuration files for a real-time
   Enables seamless deployment of the entire system using Docker Compose.
 
 ![](Pictures1/Docker.png)
+
 3. Flink Streaming Job (DataStreamJob.java)
 - Kafka Source Configuration
   Sets up a Flink streaming job to consume data from the Kafka topic 'financial_transactions'.
