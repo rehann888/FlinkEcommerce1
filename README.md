@@ -28,15 +28,15 @@ This repository contains the source code and configuration files for a real-time
   Establishes dependencies and health checks to ensure proper service initialization.
   Enables seamless deployment of the entire system using Docker Compose.
 
-![](/home/reyhan/Pictures1/Docker.png)
+![](/home/reyhan/IdeaProjects/FlinkEcommerce1/Pictures1/Docker.png)
 3. Flink Streaming Job (DataStreamJob.java)
 - Kafka Source Configuration
   Sets up a Flink streaming job to consume data from the Kafka topic 'financial_transactions'.
   Uses Flink Kafka Source for data ingestion.
 
-![](/home/reyhan/Pictures1/flink1.png)
+![](/home/reyhan/IdeaProjects/FlinkEcommerce1/Pictures1/flink1.png)
 
-![](/home/reyhan/Pictures1/flink.png)
+![](/home/reyhan/IdeaProjects/FlinkEcommerce1/Pictures1/flink.png)
 
 - PostgreSQL Sink
   Defines tables in PostgreSQL ('transactions', 'sales_per_category', 'sales_per_day', 'sales_per_month').
@@ -45,13 +45,13 @@ This repository contains the source code and configuration files for a real-time
   Calculates total sales per category, per day, and per month.
   Updates corresponding tables in PostgreSQL with the aggregated results
 
-![](/home/reyhan/Pictures1/postgre.png)
+![](/home/reyhan/IdeaProjects/FlinkEcommerce1/Pictures1/postgre.png)
 
 - Elasticsearch Sink
   Indexes raw transaction data into Elasticsearch for further analysis.
   Utilizes Elasticsearch Sink for seamless integration.
 
-![](/home/reyhan/Pictures1/es.png)
+![](/home/reyhan/IdeaProjects/FlinkEcommerce1/Pictures1/es.png)
 
 4. Kibana Visualization
 - Real-time Dashboards
@@ -60,6 +60,5 @@ This repository contains the source code and configuration files for a real-time
   Provides a user-friendly interface for exploring and analyzing the processed data.
   Getting Started
   
-
-![](/home/reyhan/Pictures1/viz.png)
+  ![](/home/reyhan/IdeaProjects/FlinkEcommerce1/Pictures1/viz.png)
 
