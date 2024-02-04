@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the source code and configuration files for a real-time sales data processing system. The system leverages Apache Flink for stream processing, Kafka for data ingestion, PostgreSQL for storing transactional and aggregated data, Elasticsearch for indexing, and Kibana for visualization. The Docker Compose file sets up the entire infrastructure seamlessly.
 
+![](Pictures1/FLOW-SYSTEM-ARCHITECTURE_001.jpg)
+
 ### Tools
 - Container Orchestration: Docker Compose
 - Message Broker: Apache Kafka
@@ -61,5 +63,5 @@ This repository contains the source code and configuration files for a real-time
   Provides a user-friendly interface for exploring and analyzing the processed data.
   Getting Started
   
-  ![](Pictures1/viz.png)
+![](Pictures1/viz.png)
 
